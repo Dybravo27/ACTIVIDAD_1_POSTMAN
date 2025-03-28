@@ -1,4 +1,8 @@
 {
+  "user": {
+    "id":1,
+    "name": "Dylan Slebyng"
+  },
   "posts": [
     {
       "id": 1,
@@ -10,54 +14,6 @@
       "body": "bar",
       "userId": 1,
       "id": 2
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 3
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 6
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 7
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 8
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 9
-    },
-    {
-      "title": "foo",
-      "body": "bar",
-      "userId": 1,
-      "id": 10
     }
   ],
   "comments": [
@@ -66,8 +22,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

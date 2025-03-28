@@ -1,5 +1,7 @@
 {
-  "/posts/:id": "/posts?id=:id",
-  "/comments/:id": "/comentarios?id=:id",
-  "/profile?id=:id": "/perfiles/:id"
+  "/usuarios": "/users",
+  "/usuarios/:id": "/users/:id",
+
+  "/productos/:id": "/users/:id",
+  "/categoria/:id": "/users/:id"
 }
