@@ -1,9 +1,9 @@
 {
-  "/usuarios": "/users",
-  "/productos": "/products",
-  "/categorias": "/categorys",
+  "/users": "/usuarios",
+  "/products": "/productos",
+  "/categorys": "/categorias",
 
-  "/usuarios/:id": "/users/:id",
-  "/productos/:id": "/products/:id",
-  "/categorias/:id": "/categorys/:id"
+  "/users/:id": "/usuarios/:id",
+  "/products/:id": "/productos/:id",
+  "/categorys/:id": "/categorias/:id"
 }

@@ -1,202 +1,203 @@
 {
-  "users": [
+  "usuarios": [
     {
       "id": 1,
-      "name": "Dylan Bravo",
-      "email": "dylan@gmail.com",
-      "phone": "3242940591",
-      "city": "Piedecuesta",
-      "documentType": "CC"
+      "nombre": "Dylan Bravo",
+      "correo": "dylan@gmail.com",
+      "telefono": "3242940591",
+      "ciudad": "Piedecuesta",
+      "tipoDocumento": "CC"
     },
     {
       "id": 2,
-      "name": "Ana Pérez",
-      "email": "ana.perez@gmail.com",
-      "phone": "3123456789",
-      "city": "Bucaramanga",
-      "documentType": "TI"
+      "nombre": "Ana Pérez",
+      "correo": "ana.perez@gmail.com",
+      "telefono": "3123456789",
+      "ciudad": "Bucaramanga",
+      "tipoDocumento": "TI"
     },
     {
       "id": 3,
-      "name": "Carlos Martínez",
-      "email": "carlos.martinez@hotmail.com",
-      "phone": "3234567890",
-      "city": "Cúcuta",
-      "documentType": "TI"
+      "nombre": "Carlos Martínez",
+      "correo": "carlos.martinez@hotmail.com",
+      "telefono": "3234567890",
+      "ciudad": "Cúcuta",
+      "tipoDocumento": "TI"
     },
     {
       "id": 4,
-      "name": "Laura García",
-      "email": "laura.garcia@gmail.com",
-      "phone": "3145678901",
-      "city": "Medellín",
-      "documentType": "CC"
+      "nombre": "Laura García",
+      "correo": "laura.garcia@gmail.com",
+      "telefono": "3145678901",
+      "ciudad": "Medellín",
+      "tipoDocumento": "CC"
     },
     {
       "id": 5,
-      "name": "Pedro González",
-      "email": "pedro.gonzalez@yahoo.com",
-      "phone": "3156789012",
-      "city": "Bogotá",
-      "documentType": "TI"
+      "nombre": "Pedro González",
+      "correo": "pedro.gonzalez@yahoo.com",
+      "telefono": "3156789012",
+      "ciudad": "Bogotá",
+      "tipoDocumento": "TI"
     },
     {
       "id": 6,
-      "name": "María Rodríguez",
-      "email": "maria.rodriguez@gmail.com",
-      "phone": "3167890123",
-      "city": "Cartagena",
-      "documentType": "CC"
+      "nombre": "María Rodríguez",
+      "correo": "maria.rodriguez@gmail.com",
+      "telefono": "3167890123",
+      "ciudad": "Cartagena",
+      "tipoDocumento": "CC"
     },
     {
       "id": 7,
-      "name": "Luis Fernández",
-      "email": "luis.fernandez@hotmail.com",
-      "phone": "3178901234",
-      "city": "Cali",
-      "documentType": "CC"
+      "nombre": "Luis Fernández",
+      "correo": "luis.fernandez@hotmail.com",
+      "telefono": "3178901234",
+      "ciudad": "Cali",
+      "tipoDocumento": "CC"
     },
     {
       "id": 8,
-      "name": "Sofía Ramírez",
-      "email": "sofia.ramirez@gmail.com",
-      "phone": "3189012345",
-      "city": "Barranquilla",
-      "documentType": "TI"
+      "nombre": "Sofía Ramírez",
+      "correo": "sofia.ramirez@gmail.com",
+      "telefono": "3189012345",
+      "ciudad": "Barranquilla",
+      "tipoDocumento": "TI"
     },
     {
       "id": 9,
-      "name": "José López",
-      "email": "jose.lopez@hotmail.com",
-      "phone": "3190123456",
-      "city": "Santa Marta",
-      "documentType": "CC"
+      "nombre": "José López",
+      "correo": "jose.lopez@hotmail.com",
+      "telefono": "3190123456",
+      "ciudad": "Santa Marta",
+      "tipoDocumento": "CC"
     },
     {
       "id": 10,
-      "name": "Verónica Díaz",
-      "email": "veronica.diaz@yahoo.com",
-      "phone": "3201234567",
-      "city": "Pereira",
-      "documentType": "CC"
+      "nombre": "Verónica Díaz",
+      "correo": "veronica.diaz@yahoo.com",
+      "telefono": "3201234567",
+      "ciudad": "Pereira",
+      "tipoDocumento": "CC"
     }
   ],
-  "products": [
+  "productos": [
     {
       "id": 1,
-      "title": "Camiseta Deportiva",
-      "price": 79900,
+      "titulo": "Camiseta Deportiva",
+      "precio": 79900,
       "stock": 150,
-      "categoryId": 1,
-      "description": "Camiseta de algodón con secado rápido."
+      "categoriaId": 1,
+      "descripcion": "Camiseta de algodón con secado rápido"
     },
     {
       "id": 2,
-      "title": "Zapatillas de Running",
-      "price": 239900,
+      "titulo": "Zapatillas de Running",
+      "precio": 239900,
       "stock": 120,
-      "categoryId": 1,
-      "description": "Zapatillas deportivas para correr."
+      "categoriaId": 1,
+      "descripcion": "Zapatillas deportivas para correr"
     },
     {
       "id": 3,
-      "title": "Reloj Digital",
-      "price": 159900,
+      "titulo": "Reloj Digital",
+      "precio": 159900,
       "stock": 80,
-      "categoryId": 2,
-      "description": "Reloj digital resistente al agua."
+      "categoriaId": 2,
+      "descripcion": "Reloj digital resistente al agua"
     },
     {
       "id": 4,
-      "title": "Auriculares Bluetooth",
-      "price": 199900,
+      "titulo": "Auriculares Bluetooth",
+      "precio": 199900,
       "stock": 200,
-      "categoryId": 2,
-      "description": "Auriculares inalámbricos con cancelación de ruido."
+      "categoriaId": 2,
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido"
     },
     {
       "id": 5,
-      "title": "Mochila de Viaje",
-      "price": 159900,
+      "titulo": "Mochila de Viaje",
+      "precio": 159900,
       "stock": 150,
-      "categoryId": 3,
-      "description": "Mochila con múltiples compartimentos."
+      "categoriaId": 3,
+      "descripcion": "Mochila con múltiples compartimentos"
     },
     {
       "id": 6,
-      "title": "Cámara de Seguridad",
-      "price": 359900,
+      "titulo": "Camara de Seguridad",
+      "precio": 359900,
       "stock": 75,
-      "categoryId": 4,
-      "description": "Cámara inalámbrica con visión nocturna."
+      "categoriaId": 4,
+      "descripcion": "Camara inalámbrica con visión nocturna"
     },
     {
       "id": 7,
-      "title": "Laptop Gaming",
-      "price": 3999000,
+      "titulo": "Laptop Gaming",
+      "precio": 3999000,
       "stock": 50,
-      "categoryId": 5,
-      "description": "Laptop con procesador i7 y tarjeta gráfica NVIDIA."
+      "categoriaId": 5,
+      "descripcion": "Laptop con procesador i7 y tarjeta gráfica NVIDIA"
     },
     {
       "id": 8,
-      "title": "Smartphone Android",
-      "price": 1199000,
+      "titulo": "Smartphone Android",
+      "precio": 1199000,
       "stock": 200,
-      "categoryId": 6,
-      "description": "Smartphone con cámara de 48MP."
+      "categoriaId": 6,
+      "descripcion": "Smartphone con Camara de 48MP"
     },
     {
       "id": 9,
-      "title": "Bicicleta de Montaña",
-      "price": 1599900,
+      "titulo": "Bicicleta de Montaña",
+      "precio": 1599900,
       "stock": 40,
-      "categoryId": 3,
-      "description": "Bicicleta con suspensión completa."
+      "categoriaId": 3,
+      "descripcion": "Bicicleta con suspensión completa"
     },
     {
       "id": 10,
-      "title": "Silla Ergonómica",
-      "price": 449900,
+      "titulo": "Silla Ergonómica",
+      "precio": 449900,
       "stock": 100,
-      "categoryId": 7,
-      "description": "Silla ergonómica ajustable para oficina."
+      "categoriaId": 7,
+      "descripcion": "Silla ergonómica ajustable para oficina"
     }
   ],
-  "categorys": [{
+  "categorias": [
+    {
       "id": 1,
-      "title": "Ropa Deportiva",
-      "description": "Ropa para deportes y actividad física."
+      "titulo": "Ropa Deportiva",
+      "descripcion": "Ropa para deportes y actividad física"
     },
     {
       "id": 2,
-      "title": "Tecnología",
-      "description": "Productos electrónicos como relojes y auriculares."
+      "titulo": "Tecnología",
+      "descripcion": "Productos electrónicos como relojes y auriculares"
     },
     {
       "id": 3,
-      "title": "Accesorios de Viaje",
-      "description": "Mochilas, bicicletas y accesorios para viajeros."
+      "titulo": "Accesorios de Viaje",
+      "descripcion": "Mochilas, bicicletas y accesorios para viajeros"
     },
     {
       "id": 4,
-      "title": "Seguridad",
-      "description": "Cámaras y equipos para seguridad del hogar."
+      "titulo": "Seguridad",
+      "descripcion": "Camaras y equipos para seguridad del hogar"
     },
     {
       "id": 5,
-      "title": "Computadoras y Laptops",
-      "description": "Laptops y equipos de alto rendimiento para juegos."
+      "titulo": "Computadoras y Laptops",
+      "descripcion": "Laptops y equipos de alto rendimiento para juegos"
     },
     {
       "id": 6,
-      "title": "Smartphones",
-      "description": "Teléfonos inteligentes con tecnología avanzada."
+      "titulo": "Smartphones",
+      "descripcion": "Teléfonos inteligentes con tecnología avanzada"
     },
     {
       "id": 7,
-      "title": "Mobiliario",
-      "description": "Sillas y muebles ergonómicos para oficina."
+      "titulo": "Mobiliario",
+      "descripcion": "Sillas y muebles ergonómicos para oficina"
     }
   ]
 }
